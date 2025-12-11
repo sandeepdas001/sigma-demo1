@@ -1,2 +1,2 @@
 # sigma-demo1
-This is Demo for Gih &amp; Gihhub class
+This is Demo for Git &amp; Github class
